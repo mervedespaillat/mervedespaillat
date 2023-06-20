@@ -1,5 +1,5 @@
 
-![(https://bit.ly/3Sh8xy7)](https://bit.ly/3Sh8xy7)
+![(https://bit.ly/3Sh8xy7)]()
 
 - 🔭 I’m currently working on a group project
 - 🌱 I’m currently learning Express and Node.js
