@@ -1,6 +1,4 @@
-
- <img align="right" alt="Coding" width="400" src="add your link 
-  here">
+[![MasterHead](your image link)](your GitHub link)
 
 
 - 🔭 I’m currently working on a group project
