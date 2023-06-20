@@ -23,3 +23,9 @@
 
 </p>
 
+<a href="https://www.linkedin.com/in/merve-do%C4%9Fan-espaillat-872298161">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50px" height="50px">
+</a> <a href="https://wellfound.com/u/merve-dogan-espaillat">
+  <img src="https://static.wikia.nocookie.net/logopedia/images/d/df/Wellfound_2022_Icon.svg/revision/latest?cb=20221209174809" alt="Wellfound" width="50" height="50px">
+</a>
+
