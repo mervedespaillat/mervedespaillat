@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://dribbble.com/kabojanowska">
   <img src="https://cdn.dribbble.com/userupload/4010222/file/original-529e96f640271b492dc8ab396ca7f498.jpg?compress=1&resize=752x" height="400" width="1000">
+  </a>
 </p>
 
 <p align="center" style="color:green;font-weight:700;font-size:20px">
