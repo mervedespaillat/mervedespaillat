@@ -23,6 +23,7 @@
 
 </p>
 
+
 <a href="https://www.linkedin.com/in/merve-do%C4%9Fan-espaillat-872298161">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40px" height="40px">
 </a> <a href="https://wellfound.com/u/merve-dogan-espaillat">
@@ -41,7 +42,7 @@
 </a><a href="https://www.javascript.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS" width="70px" height="70px">
 </a><a href="https://www.microsoft.com/en-us/sql-server">
-  <img src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png" alt="SQL" width="70px" height="70px">
+  <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="SQL" width="70px" height="70px">
 </a><a href="https://www.w3schools.com/html/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML CSS" width="70px" height="70px">
 </a><a href="https://www.w3schools.com/css/">
@@ -51,9 +52,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="70px" height="70px">
 </a>
 <a href="https://nodejs.org/en">
-  <img src="https://p7.hiclipart.com/preview/306/37/167/node-js-javascript-web-application-express-js-computer-software-others.jpg" alt="Node.js" width="70px" height="70px">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node.js" width="70px" height="70px">
 </a>
 <a href="https://aws.amazon.com/?nc2=h_lg">
   <img src="https://www.liblogo.com/img-logo/max/aw314s096-aws-s3-logo-setting-up-aws-s3-for-open-edx-blog.png" alt="AWS" width="70px" height="70px">
+</a>
+<a href="https://www.mongodb.com/">
+  <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="mongodb" width="70px" height="70px">
+</a>
+<a href="https://www.postgresql.org/">
+  <img src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head.png" alt="Postgresql" width="70px" height="70px">
 </a>
 
