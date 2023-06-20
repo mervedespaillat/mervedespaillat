@@ -1,4 +1,4 @@
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead](https://storyset.com/illustration/typing/bro#E392B6FF&hide=&hide=complete)
 
 
 - 🔭 I’m currently working on a group project
