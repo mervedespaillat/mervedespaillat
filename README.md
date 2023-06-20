@@ -1,5 +1,5 @@
 
-![2e3ca197b2daa4e5d8cfa7e2a152f792](https://github.com/mervedespaillat/mervedespaillat/assets/102131320/a68a42c6-74d3-46ea-86a4-09c1dde82919)
+![stephen-crowley-eh3kB7wAJgs-unsplash](https://github.com/mervedespaillat/mervedespaillat/assets/102131320/2fc5328c-7887-45d9-8043-2cee74392187)
 
 - 🔭 I’m currently working on a group project
 - 🌱 I’m currently learning Express and Node.js
